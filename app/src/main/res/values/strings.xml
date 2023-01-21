@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">HIIG</string>
-    <string name="appwidget_text">EXAMPLE</string>
+    <string name="appwidget_text">HIIG</string>
     <string name="configure">Configure</string>
     <string name="add_widget">Add widget</string>
-    <string name="app_widget_description">This is an app widget description</string>
+    <string name="app_widget_description">How Is It Going? - Find your lovely metro!</string>
+    <string name="key_line">5355616b5a6a756e3633446f584647</string>
+    <string name="key_station">587a4c68546a756e343669434b6f43</string>
 </resources>
